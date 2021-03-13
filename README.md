@@ -1,21 +1,36 @@
-# ReportsGenerator
+<h1 align="center">Welcome to Reports Generator app👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-**TODO: Add description**
+> 🚨 Project to read a 300.000 lines delivery app file and extract data and give reports based on this file
 
-## Installation
+## Install
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `reports_generator` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:reports_generator, "~> 0.1.0"}
-  ]
-end
+```sh
+git clone https://github.com/peguimasid/Reports-Generator
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/reports_generator](https://hexdocs.pm/reports_generator).
+## Usage
+- Install [Elixir](https://elixir-lang.org/install.html)
+- Run: `iex -S mix`
 
+## Test
+```Elixir
+mix test
+```
+
+## Author
+
+👤 **Guilhermo Masid**
+
+* Github: [@peguimasid](https://github.com/peguimasid)
+* LinkedIn: [@Guilhermo Masid](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
