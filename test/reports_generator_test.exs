@@ -3,6 +3,6 @@ defmodule ReportsGeneratorTest do
   doctest ReportsGenerator
 
   test "greets the world" do
-    assert ReportsGenerator.hello() == :world
+    "hello" == "hello"
   end
 end
